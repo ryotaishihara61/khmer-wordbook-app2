@@ -18,8 +18,8 @@ const WordCard: React.FC<WordCardProps> = ({ wordKh, pronunciation, meaningJa })
       margin: '1rem 0',
       backgroundColor: '#f9f9f9'
     }}>
-      <div style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>
-        <strong>日本語:</strong> {meaningJa}
+      <div style={{ fontSize: '1.0rem', marginBottom: '0.5rem' }}>
+        <strong>日本語 ＝ </strong> {meaningJa}
       </div>
 
       {showAnswer && (
