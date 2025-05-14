@@ -1,0 +1,1591 @@
+[
+  {
+    "id": 1,
+    "word_kh": "សូន្យ",
+    "pronunciation": "ソン",
+    "meaning_ja": 0,
+    "category": "数字"
+  },
+  {
+    "id": 2,
+    "word_kh": "មួយ",
+    "pronunciation": "ムオイ",
+    "meaning_ja": 1,
+    "category": "数字"
+  },
+  {
+    "id": 3,
+    "word_kh": "ពីរ",
+    "pronunciation": "ピー",
+    "meaning_ja": 2,
+    "category": "数字"
+  },
+  {
+    "id": 4,
+    "word_kh": "បី",
+    "pronunciation": "バイ",
+    "meaning_ja": 3,
+    "category": "数字"
+  },
+  {
+    "id": 5,
+    "word_kh": "បួន",
+    "pronunciation": "ボーン",
+    "meaning_ja": 4,
+    "category": "数字"
+  },
+  {
+    "id": 6,
+    "word_kh": "ប្រាំ",
+    "pronunciation": "プラム",
+    "meaning_ja": 5,
+    "category": "数字"
+  },
+  {
+    "id": 7,
+    "word_kh": "ប្រាំមួយ",
+    "pronunciation": "プラムムオイ",
+    "meaning_ja": 6,
+    "category": "数字"
+  },
+  {
+    "id": 8,
+    "word_kh": "ប្រាំពីរ",
+    "pronunciation": "プラムピー",
+    "meaning_ja": 7,
+    "category": "数字"
+  },
+  {
+    "id": 9,
+    "word_kh": "ប្រាំបី",
+    "pronunciation": "プラムバイ",
+    "meaning_ja": 8,
+    "category": "数字"
+  },
+  {
+    "id": 10,
+    "word_kh": "ប្រាំបួន",
+    "pronunciation": "プラムボーン",
+    "meaning_ja": 9,
+    "category": "数字"
+  },
+  {
+    "id": 11,
+    "word_kh": "ដប់",
+    "pronunciation": "ドップ",
+    "meaning_ja": 10,
+    "category": "数字"
+  },
+  {
+    "id": 12,
+    "word_kh": "ម្ភៃ",
+    "pronunciation": "ムパイ",
+    "meaning_ja": 20,
+    "category": "数字"
+  },
+  {
+    "id": 13,
+    "word_kh": "សាមសិប",
+    "pronunciation": "サームサップ",
+    "meaning_ja": 30,
+    "category": "数字"
+  },
+  {
+    "id": 14,
+    "word_kh": "សែសិប",
+    "pronunciation": "セーサップ",
+    "meaning_ja": 40,
+    "category": "数字"
+  },
+  {
+    "id": 15,
+    "word_kh": "ហាសិប",
+    "pronunciation": "ハーサップ",
+    "meaning_ja": 50,
+    "category": "数字"
+  },
+  {
+    "id": 16,
+    "word_kh": "ហុកសិប",
+    "pronunciation": "ホックサップ",
+    "meaning_ja": 60,
+    "category": "数字"
+  },
+  {
+    "id": 17,
+    "word_kh": "ចិតសិប",
+    "pronunciation": "チェットサップ",
+    "meaning_ja": 70,
+    "category": "数字"
+  },
+  {
+    "id": 18,
+    "word_kh": "ប៉ែតសិប",
+    "pronunciation": "ペットサップ",
+    "meaning_ja": 80,
+    "category": "数字"
+  },
+  {
+    "id": 19,
+    "word_kh": "កៅសិប",
+    "pronunciation": "カオサップ",
+    "meaning_ja": 90,
+    "category": "数字"
+  },
+  {
+    "id": 20,
+    "word_kh": "មួយរយ",
+    "pronunciation": "ムオイロイ",
+    "meaning_ja": 100,
+    "category": "数字"
+  },
+  {
+    "id": 21,
+    "word_kh": "មួយពាន់",
+    "pronunciation": "ムオイポアン",
+    "meaning_ja": 1000,
+    "category": "数字"
+  },
+  {
+    "id": 22,
+    "word_kh": "មួយម៉ឺន",
+    "pronunciation": "ムオイムーン",
+    "meaning_ja": 10000,
+    "category": "数字"
+  },
+  {
+    "id": 23,
+    "word_kh": "ខ្ញុំ",
+    "pronunciation": "クニョム",
+    "meaning_ja": "私",
+    "category": "主語"
+  },
+  {
+    "id": 24,
+    "word_kh": "អ្នក",
+    "pronunciation": "ネアック",
+    "meaning_ja": "あなた",
+    "category": "主語"
+  },
+  {
+    "id": 25,
+    "word_kh": "គាត់",
+    "pronunciation": "クオッ",
+    "meaning_ja": "彼",
+    "category": "主語"
+  },
+  {
+    "id": 26,
+    "word_kh": "នាង",
+    "pronunciation": "ニアーン",
+    "meaning_ja": "彼女",
+    "category": "主語"
+  },
+  {
+    "id": 27,
+    "word_kh": "ប្ដី",
+    "pronunciation": "プダイ",
+    "meaning_ja": "夫",
+    "category": "家族"
+  },
+  {
+    "id": 28,
+    "word_kh": "ប្រពន្ធ",
+    "pronunciation": "プロポン",
+    "meaning_ja": "妻",
+    "category": "家族"
+  },
+  {
+    "id": 29,
+    "word_kh": "កូន",
+    "pronunciation": "コーン",
+    "meaning_ja": "子ども",
+    "category": "家族"
+  },
+  {
+    "id": 30,
+    "word_kh": "កូនប្រុស",
+    "pronunciation": "コーンプロッ",
+    "meaning_ja": "息子",
+    "category": "家族"
+  },
+  {
+    "id": 31,
+    "word_kh": "កូនស្រី",
+    "pronunciation": "コーンサレイ",
+    "meaning_ja": "娘",
+    "category": "家族"
+  },
+  {
+    "id": 32,
+    "word_kh": "ឪពុក",
+    "pronunciation": "アウポック",
+    "meaning_ja": "父",
+    "category": "家族"
+  },
+  {
+    "id": 33,
+    "word_kh": "ម្ដាយ",
+    "pronunciation": "マダイ",
+    "meaning_ja": "母",
+    "category": "家族"
+  },
+  {
+    "id": 34,
+    "word_kh": "បងប្រុស",
+    "pronunciation": "ボンプロッ",
+    "meaning_ja": "兄",
+    "category": "家族"
+  },
+  {
+    "id": 35,
+    "word_kh": "ប្អូនប្រុស",
+    "pronunciation": "パオンプロッ",
+    "meaning_ja": "弟",
+    "category": "家族"
+  },
+  {
+    "id": 36,
+    "word_kh": "បងស្រី",
+    "pronunciation": "ボンサレイ",
+    "meaning_ja": "姉",
+    "category": "家族"
+  },
+  {
+    "id": 37,
+    "word_kh": "ប្អូនស្រី",
+    "pronunciation": "パオンサレイ",
+    "meaning_ja": "妹",
+    "category": "家族"
+  },
+  {
+    "id": 38,
+    "word_kh": "តា",
+    "pronunciation": "ター",
+    "meaning_ja": "祖父",
+    "category": "家族"
+  },
+  {
+    "id": 39,
+    "word_kh": "យាយ",
+    "pronunciation": "イアイ",
+    "meaning_ja": "祖母",
+    "category": "家族"
+  },
+  {
+    "id": 40,
+    "word_kh": "ខែមករា",
+    "pronunciation": "カエ マカラ",
+    "meaning_ja": "1月",
+    "category": "月"
+  },
+  {
+    "id": 41,
+    "word_kh": "ខែកុម្ភៈ",
+    "pronunciation": "カエ コムペア",
+    "meaning_ja": "2月",
+    "category": "月"
+  },
+  {
+    "id": 42,
+    "word_kh": "ខែមីនា",
+    "pronunciation": "カエ ミニア",
+    "meaning_ja": "3月",
+    "category": "月"
+  },
+  {
+    "id": 43,
+    "word_kh": "ខែមេសា",
+    "pronunciation": "カエ メイサー",
+    "meaning_ja": "4月",
+    "category": "月"
+  },
+  {
+    "id": 44,
+    "word_kh": "ខែឧសភា",
+    "pronunciation": "カエ ウサピア",
+    "meaning_ja": "5月",
+    "category": "月"
+  },
+  {
+    "id": 45,
+    "word_kh": "ខែមិថុនា",
+    "pronunciation": "カエ ミトゥナ",
+    "meaning_ja": "6月",
+    "category": "月"
+  },
+  {
+    "id": 46,
+    "word_kh": "ខែកក្កដា",
+    "pronunciation": "カエ カッカダ",
+    "meaning_ja": "7月",
+    "category": "月"
+  },
+  {
+    "id": 47,
+    "word_kh": "ខែសីហា",
+    "pronunciation": "カエ セイハ",
+    "meaning_ja": "8月",
+    "category": "月"
+  },
+  {
+    "id": 48,
+    "word_kh": "ខែកញ្ញា",
+    "pronunciation": "カエ カンニャ",
+    "meaning_ja": "9月",
+    "category": "月"
+  },
+  {
+    "id": 49,
+    "word_kh": "ខែតុលា",
+    "pronunciation": "カエ トゥラ",
+    "meaning_ja": "10月",
+    "category": "月"
+  },
+  {
+    "id": 50,
+    "word_kh": "ខែវិច្ឆិកា",
+    "pronunciation": "カエ ヴィチチカ",
+    "meaning_ja": "11月",
+    "category": "月"
+  },
+  {
+    "id": 51,
+    "word_kh": "ខែធ្នូ",
+    "pronunciation": "カエ トゥヌー",
+    "meaning_ja": "12月",
+    "category": "月"
+  },
+  {
+    "id": 52,
+    "word_kh": "អាមេរិក",
+    "pronunciation": "アーメリッ",
+    "meaning_ja": "アメリカ",
+    "category": "国"
+  },
+  {
+    "id": 53,
+    "word_kh": "ចិន",
+    "pronunciation": "チン",
+    "meaning_ja": "中国",
+    "category": "国"
+  },
+  {
+    "id": 54,
+    "word_kh": "ជប៉ុន",
+    "pronunciation": "チョポン",
+    "meaning_ja": "日本",
+    "category": "国"
+  },
+  {
+    "id": 55,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "ドイツ",
+    "category": "国"
+  },
+  {
+    "id": 56,
+    "word_kh": "បារាំង",
+    "pronunciation": "バアラン",
+    "meaning_ja": "フランス",
+    "category": "国"
+  },
+  {
+    "id": 57,
+    "word_kh": "កម្ពុជា",
+    "pronunciation": "カンポジア",
+    "meaning_ja": "カンボジア",
+    "category": "国"
+  },
+  {
+    "id": 58,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "オーストラリア",
+    "category": "国"
+  },
+  {
+    "id": 59,
+    "word_kh": "សួស្តី",
+    "pronunciation": "スオスダイ",
+    "meaning_ja": "こんにちは",
+    "category": "あいさつ"
+  },
+  {
+    "id": 60,
+    "word_kh": "អរុណសួស្តី",
+    "pronunciation": "オルン・スオスダイ",
+    "meaning_ja": "おはよう",
+    "category": "あいさつ"
+  },
+  {
+    "id": 61,
+    "word_kh": "លាហើយ",
+    "pronunciation": "リアハウイ",
+    "meaning_ja": "さようなら",
+    "category": "あいさつ"
+  },
+  {
+    "id": 62,
+    "word_kh": "អរគុណ",
+    "pronunciation": "オークン",
+    "meaning_ja": "ありがとう",
+    "category": "あいさつ"
+  },
+  {
+    "id": 63,
+    "word_kh": "មិនអីទេ",
+    "pronunciation": "メンアイテー",
+    "meaning_ja": "どういたしまして",
+    "category": "あいさつ"
+  },
+    {
+    "id": 64,
+    "word_kh": "បាទ/ចាស",
+    "pronunciation": "バーッ / チャーッ",
+    "meaning_ja": "はい",
+    "category": "あいさつ"
+  },
+  {
+    "id": 65,
+    "word_kh": "ទេ",
+    "pronunciation": "テー",
+    "meaning_ja": "いいえ",
+    "category": "あいさつ"
+  },
+  {
+    "id": 66,
+    "word_kh": "សូមទោស",
+    "pronunciation": "ソームトオッ",
+    "meaning_ja": "ごめんなさい",
+    "category": "あいさつ"
+  },
+  {
+    "id": 67,
+    "word_kh": "ខ្ញុំឈ្មោះរឿតា",
+    "pronunciation": "クニョム・チュムア・リョウタ",
+    "meaning_ja": "私の名前はリョウタです",
+    "category": "あいさつ"
+  },
+    {
+    "id": 68,
+    "word_kh": "ក្បាល",
+    "pronunciation": "クボアル",
+    "meaning_ja": "頭",
+    "category": "体の部位"
+  },
+  {
+    "id": 69,
+    "word_kh": "មុខ",
+    "pronunciation": "モッ",
+    "meaning_ja": "顔",
+    "category": "体の部位"
+  },
+  {
+    "id": 70,
+    "word_kh": "ភ្នែក",
+    "pronunciation": "プネーク",
+    "meaning_ja": "目",
+    "category": "体の部位"
+  },
+  {
+    "id": 71,
+    "word_kh": "ត្រចៀក",
+    "pronunciation": "トロチアック",
+    "meaning_ja": "耳",
+    "category": "体の部位"
+  },
+  {
+    "id": 72,
+    "word_kh": "ច្រមុះ",
+    "pronunciation": "チョルモホ",
+    "meaning_ja": "鼻",
+    "category": "体の部位"
+  },
+  {
+    "id": 73,
+    "word_kh": "មាត់",
+    "pronunciation": "モアッ",
+    "meaning_ja": "口",
+    "category": "体の部位"
+  },
+  {
+    "id": 74,
+    "word_kh": "ធ្មេញ",
+    "pronunciation": "トゥメン",
+    "meaning_ja": "歯",
+    "category": "体の部位"
+  },
+  {
+    "id": 75,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "舌",
+    "category": "体の部位"
+  },
+  {
+    "id": 76,
+    "word_kh": "ក",
+    "pronunciation": "コー",
+    "meaning_ja": "首",
+    "category": "体の部位"
+  },
+  {
+    "id": 77,
+    "word_kh": "ស្មា",
+    "pronunciation": "スマー",
+    "meaning_ja": "肩",
+    "category": "体の部位"
+  },
+  {
+    "id": 78,
+    "word_kh": "ដៃ",
+    "pronunciation": "ダイ",
+    "meaning_ja": "腕",
+    "category": "体の部位"
+  },
+  {
+    "id": 79,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "ひじ",
+    "category": "体の部位"
+  },
+  {
+    "id": 80,
+    "word_kh": "ដៃ",
+    "pronunciation": "ダイ",
+    "meaning_ja": "手",
+    "category": "体の部位"
+  },
+  {
+    "id": 81,
+    "word_kh": "ម្រាមដៃ",
+    "pronunciation": "ムリアムダイ",
+    "meaning_ja": "指",
+    "category": "体の部位"
+  },
+  {
+    "id": 82,
+    "word_kh": "ដើមទ្រូង",
+    "pronunciation": "ダウムトゥロン",
+    "meaning_ja": "胸",
+    "category": "体の部位"
+  },
+  {
+    "id": 83,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "お腹",
+    "category": "体の部位"
+  },
+  {
+    "id": 84,
+    "word_kh": "ខ្នង",
+    "pronunciation": "クナン",
+    "meaning_ja": "背中",
+    "category": "体の部位"
+  },
+  {
+    "id": 85,
+    "word_kh": "ជើង",
+    "pronunciation": "チューン",
+    "meaning_ja": "足",
+    "category": "体の部位"
+  },
+  {
+    "id": 86,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "ひざ",
+    "category": "体の部位"
+  },
+  {
+    "id": 87,
+    "word_kh": "",
+    "pronunciation": "",
+    "meaning_ja": "つま先",
+    "category": "体の部位"
+  },
+    {
+    "id": 88,
+    "word_kh": "បាយ",
+    "pronunciation": "バーイ",
+    "meaning_ja": "ごはん",
+    "category": "食べ物"
+  },
+  {
+    "id": 89,
+    "word_kh": "នំបុ័ង",
+    "pronunciation": "ノンボン",
+    "meaning_ja": "パン",
+    "category": "食べ物"
+  },
+  {
+    "id": 90,
+    "word_kh": "មី",
+    "pronunciation": "ミー",
+    "meaning_ja": "麺",
+    "category": "食べ物"
+  },
+  {
+    "id": 91,
+    "word_kh": "មីរ៉ាម៉េន",
+    "pronunciation": "ミーラーメン",
+    "meaning_ja": "ラーメン",
+    "category": "食べ物"
+  },
+  {
+    "id": 92,
+    "word_kh": "មីអូដុង",
+    "pronunciation": "ミーオドン",
+    "meaning_ja": "うどん",
+    "category": "食べ物"
+  },
+  {
+    "id": 93,
+    "word_kh": "មីសូបា",
+    "pronunciation": "ミーソバ",
+    "meaning_ja": "そば",
+    "category": "食べ物"
+  },
+  {
+    "id": 94,
+    "word_kh": "ការី",
+    "pronunciation": "カーリー",
+    "meaning_ja": "カレー",
+    "category": "食べ物"
+  },
+  {
+    "id": 95,
+    "word_kh": "ស៊ុប",
+    "pronunciation": "スッ",
+    "meaning_ja": "スープ",
+    "category": "食べ物"
+  },
+  {
+    "id": 96,
+    "word_kh": "សាឡាដ",
+    "pronunciation": "サラッ",
+    "meaning_ja": "サラダ",
+    "category": "食べ物"
+  },
+  {
+    "id": 97,
+    "word_kh": "សាច់",
+    "pronunciation": "サッチ",
+    "meaning_ja": "肉",
+    "category": "食べ物"
+  },
+  {
+    "id": 98,
+    "word_kh": "សាច់គោ",
+    "pronunciation": "サッチコウ",
+    "meaning_ja": "牛肉",
+    "category": "食べ物"
+  },
+  {
+    "id": 99,
+    "word_kh": "សាច់ជ្រូក",
+    "pronunciation": "サッチチュルーク",
+    "meaning_ja": "豚肉",
+    "category": "食べ物"
+  },
+  {
+    "id": 100,
+    "word_kh": "សាច់មាន់",
+    "pronunciation": "サッチモアン",
+    "meaning_ja": "鶏肉",
+    "category": "食べ物"
+  },
+  {
+    "id": 101,
+    "word_kh": "ត្រី",
+    "pronunciation": "トレイ",
+    "meaning_ja": "魚",
+    "category": "食べ物"
+  },
+  {
+    "id": 102,
+    "word_kh": "ត្រីខាប់",
+    "pronunciation": "トレイカップ",
+    "meaning_ja": "刺身",
+    "category": "食べ物"
+  },
+  {
+    "id": 103,
+    "word_kh": "ស៊ុត",
+    "pronunciation": "ソット",
+    "meaning_ja": "卵",
+    "category": "食べ物"
+  },
+  {
+    "id": 104,
+    "word_kh": "ឈីស",
+    "pronunciation": "チース",
+    "meaning_ja": "チーズ",
+    "category": "食べ物"
+  },
+  {
+    "id": 105,
+    "word_kh": "តៅហ៊ូ",
+    "pronunciation": "トーフー",
+    "meaning_ja": "豆腐",
+    "category": "食べ物"
+  },
+  {
+    "id": 106,
+    "word_kh": "ណាតូ",
+    "pronunciation": "ナットー",
+    "meaning_ja": "納豆",
+    "category": "食べ物"
+  },
+  {
+    "id": 107,
+    "word_kh": "មីសូ",
+    "pronunciation": "ミソー",
+    "meaning_ja": "味噌",
+    "category": "食べ物"
+  },
+  {
+    "id": 108,
+    "word_kh": "ប៊ឺទឺ",
+    "pronunciation": "ブートゥ",
+    "meaning_ja": "バター",
+    "category": "食べ物"
+  },
+  {
+    "id": 109,
+    "word_kh": "ជែម",
+    "pronunciation": "ジェーム",
+    "meaning_ja": "ジャム",
+    "category": "食べ物"
+  },
+  {
+    "id": 110,
+    "word_kh": "ផ្លែឈើ",
+    "pronunciation": "プライチュー",
+    "meaning_ja": "果物",
+    "category": "食べ物"
+  },
+  {
+    "id": 111,
+    "word_kh": "ផ្លែប៉ោម",
+    "pronunciation": "プライパオム",
+    "meaning_ja": "りんご",
+    "category": "食べ物"
+  },
+  {
+    "id": 112,
+    "word_kh": "ចេក",
+    "pronunciation": "チェーク",
+    "meaning_ja": "バナナ",
+    "category": "食べ物"
+  },
+  {
+    "id": 113,
+    "word_kh": "ផ្លែក្រូច",
+    "pronunciation": "プライクロイ",
+    "meaning_ja": "みかん",
+    "category": "食べ物"
+  },
+  {
+    "id": 114,
+    "word_kh": "ឪឡឹក",
+    "pronunciation": "アウルック",
+    "meaning_ja": "スイカ",
+    "category": "食べ物"
+  },
+  {
+    "id": 115,
+    "word_kh": "ផ្លែស្ត្រូបេរី",
+    "pronunciation": "プライストロベリー",
+    "meaning_ja": "いちご",
+    "category": "食べ物"
+  },
+  {
+    "id": 116,
+    "word_kh": "ផ្លែទំពាំងបាយជូរ",
+    "pronunciation": "プライトンペアンバイチュウ",
+    "meaning_ja": "ぶどう",
+    "category": "食べ物"
+  },
+  {
+    "id": 117,
+    "word_kh": "នំខេក",
+    "pronunciation": "ノムケーク",
+    "meaning_ja": "ケーキ",
+    "category": "食べ物"
+  },
+    {
+    "id": 118,
+    "word_kh": "ធ្វើ",
+    "pronunciation": "トゥヴァー",
+    "meaning_ja": "する",
+    "category": "基本動詞"
+  },
+  {
+    "id": 119,
+    "word_kh": "មាន",
+    "pronunciation": "ミアン",
+    "meaning_ja": "ある",
+    "category": "基本動詞"
+  },
+  {
+    "id": 120,
+    "word_kh": "មាន",
+    "pronunciation": "ミアン",
+    "meaning_ja": "いる",
+    "category": "基本動詞"
+  },
+  {
+    "id": 121,
+    "word_kh": "ទៅ",
+    "pronunciation": "トゥー",
+    "meaning_ja": "行く",
+    "category": "基本動詞"
+  },
+  {
+    "id": 122,
+    "word_kh": "មក",
+    "pronunciation": "モック",
+    "meaning_ja": "来る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 123,
+    "word_kh": "ត្រឡប់",
+    "pronunciation": "トロロップ",
+    "meaning_ja": "帰る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 124,
+    "word_kh": "ញុំា",
+    "pronunciation": "ニャム",
+    "meaning_ja": "食べる",
+    "category": "基本動詞"
+  },
+  {
+    "id": 125,
+    "word_kh": "ផឹក",
+    "pronunciation": "プック",
+    "meaning_ja": "飲む",
+    "category": "基本動詞"
+  },
+  {
+    "id": 126,
+    "word_kh": "មើល",
+    "pronunciation": "ムオル",
+    "meaning_ja": "見る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 127,
+    "word_kh": "ស្តាប់",
+    "pronunciation": "スタップ",
+    "meaning_ja": "聞く",
+    "category": "基本動詞"
+  },
+  {
+    "id": 128,
+    "word_kh": "និយាយ",
+    "pronunciation": "ニイェイ",
+    "meaning_ja": "話す",
+    "category": "基本動詞"
+  },
+  {
+    "id": 129,
+    "word_kh": "និយាយ",
+    "pronunciation": "ニイェイ",
+    "meaning_ja": "言う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 130,
+    "word_kh": "អាន",
+    "pronunciation": "アン",
+    "meaning_ja": "読む",
+    "category": "基本動詞"
+  },
+  {
+    "id": 131,
+    "word_kh": "សរសេរ",
+    "pronunciation": "ソルセー",
+    "meaning_ja": "書く",
+    "category": "基本動詞"
+  },
+  {
+    "id": 132,
+    "word_kh": "ទិញ",
+    "pronunciation": "ティン",
+    "meaning_ja": "買う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 133,
+    "word_kh": "លក់",
+    "pronunciation": "ローク",
+    "meaning_ja": "売る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 134,
+    "word_kh": "ធ្វើ",
+    "pronunciation": "トゥヴァー",
+    "meaning_ja": "作る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 135,
+    "word_kh": "ប្រើ",
+    "pronunciation": "プラー",
+    "meaning_ja": "使う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 136,
+    "word_kh": "កាន់",
+    "pronunciation": "カン",
+    "meaning_ja": "持つ",
+    "category": "基本動詞"
+  },
+  {
+    "id": 137,
+    "word_kh": "បើក",
+    "pronunciation": "バーク",
+    "meaning_ja": "開ける",
+    "category": "基本動詞"
+  },
+  {
+    "id": 138,
+    "word_kh": "បិទ",
+    "pronunciation": "ベッ",
+    "meaning_ja": "閉める",
+    "category": "基本動詞"
+  },
+  {
+    "id": 139,
+    "word_kh": "ចូល",
+    "pronunciation": "チョール",
+    "meaning_ja": "入る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 140,
+    "word_kh": "ចេញ",
+    "pronunciation": "チェン",
+    "meaning_ja": "出る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 141,
+    "word_kh": "ដើរ",
+    "pronunciation": "ダー",
+    "meaning_ja": "歩く",
+    "category": "基本動詞"
+  },
+  {
+    "id": 142,
+    "word_kh": "រត់",
+    "pronunciation": "ロット",
+    "meaning_ja": "走る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 143,
+    "word_kh": "គេង",
+    "pronunciation": "ケン",
+    "meaning_ja": "寝る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 144,
+    "word_kh": "ភ្ញាក់",
+    "pronunciation": "プニャック",
+    "meaning_ja": "起きる",
+    "category": "基本動詞"
+  },
+  {
+    "id": 145,
+    "word_kh": "ធ្វើការ",
+    "pronunciation": "トゥヴァーカー",
+    "meaning_ja": "働く",
+    "category": "基本動詞"
+  },
+  {
+    "id": 146,
+    "word_kh": "សម្រាក",
+    "pronunciation": "ソムラーク",
+    "meaning_ja": "休む",
+    "category": "基本動詞"
+  },
+  {
+    "id": 147,
+    "word_kh": "សិក្សា",
+    "pronunciation": "セクサー",
+    "meaning_ja": "学ぶ",
+    "category": "基本動詞"
+  },
+  {
+    "id": 148,
+    "word_kh": "បង្រៀន",
+    "pronunciation": "ボンリアン",
+    "meaning_ja": "教える",
+    "category": "基本動詞"
+  },
+  {
+    "id": 149,
+    "word_kh": "យល់",
+    "pronunciation": "ヨル",
+    "meaning_ja": "分かる",
+    "category": "基本動詞"
+  },
+  {
+    "id": 150,
+    "word_kh": "ចងចាំ",
+    "pronunciation": "チョンチャム",
+    "meaning_ja": "覚える",
+    "category": "基本動詞"
+  },
+  {
+    "id": 151,
+    "word_kh": "ភ្លេច",
+    "pronunciation": "プレイ",
+    "meaning_ja": "忘れる",
+    "category": "基本動詞"
+  },
+  {
+    "id": 152,
+    "word_kh": "ជួប",
+    "pronunciation": "チュアップ",
+    "meaning_ja": "会う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 153,
+    "word_kh": "យំ",
+    "pronunciation": "ヨム",
+    "meaning_ja": "泣く",
+    "category": "基本動詞"
+  },
+  {
+    "id": 154,
+    "word_kh": "ជើង",
+    "pronunciation": "チューン",
+    "meaning_ja": "笑う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 155,
+    "word_kh": "ច្រៀង",
+    "pronunciation": "チリエン",
+    "meaning_ja": "歌う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 156,
+    "word_kh": "លេង",
+    "pronunciation": "レーン",
+    "meaning_ja": "遊ぶ",
+    "category": "基本動詞"
+  },
+  {
+    "id": 157,
+    "word_kh": "ចាប់ផ្ដើម",
+    "pronunciation": "チャッププダーム",
+    "meaning_ja": "始める",
+    "category": "基本動詞"
+  },
+  {
+    "id": 158,
+    "word_kh": "បញ្ចប់",
+    "pronunciation": "バンチョップ",
+    "meaning_ja": "終わる",
+    "category": "基本動詞"
+  },
+  {
+    "id": 159,
+    "word_kh": "ស្វែងរក",
+    "pronunciation": "スヴァエンローク",
+    "meaning_ja": "探す",
+    "category": "基本動詞"
+  },
+  {
+    "id": 160,
+    "word_kh": "រកឃើញ",
+    "pronunciation": "ロックフーン",
+    "meaning_ja": "見つける",
+    "category": "基本動詞"
+  },
+  {
+    "id": 161,
+    "word_kh": "លាង",
+    "pronunciation": "リアン",
+    "meaning_ja": "洗う",
+    "category": "基本動詞"
+  },
+  {
+    "id": 162,
+    "word_kh": "កាត់",
+    "pronunciation": "カット",
+    "meaning_ja": "切る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 163,
+    "word_kh": "ពាក់",
+    "pronunciation": "ペアッ",
+    "meaning_ja": "着る",
+    "category": "基本動詞"
+  },
+  {
+    "id": 164,
+    "word_kh": "ដោះ",
+    "pronunciation": "ドー",
+    "meaning_ja": "脱ぐ",
+    "category": "基本動詞"
+  },
+  {
+    "id": 165,
+    "word_kh": "ស្នាក់នៅ",
+    "pronunciation": "スナックナウ",
+    "meaning_ja": "住む",
+    "category": "基本動詞"
+  },
+  {
+    "id": 166,
+    "word_kh": "ទូរស័ព្ទ",
+    "pronunciation": "トゥロサップ",
+    "meaning_ja": "電話する",
+    "category": "基本動詞"
+  },
+  {
+    "id": 167,
+    "word_kh": "សូត្រ",
+    "pronunciation": "ソート",
+    "meaning_ja": "勉強する",
+    "category": "基本動詞"
+  },
+    {
+    "id": 168,
+    "word_kh": "ធំ",
+    "pronunciation": "トム",
+    "meaning_ja": "大きい",
+    "category": "形容詞"
+  },
+  {
+    "id": 169,
+    "word_kh": "តូច",
+    "pronunciation": "トーチ",
+    "meaning_ja": "小さい",
+    "category": "形容詞"
+  },
+  {
+    "id": 170,
+    "word_kh": "វែង",
+    "pronunciation": "ヴェーン",
+    "meaning_ja": "長い",
+    "category": "形容詞"
+  },
+  {
+    "id": 171,
+    "word_kh": "ខ្លី",
+    "pronunciation": "クライ",
+    "meaning_ja": "短い",
+    "category": "形容詞"
+  },
+  {
+    "id": 172,
+    "word_kh": "ធំទូលាយ",
+    "pronunciation": "トムトゥーリアイ",
+    "meaning_ja": "広い",
+    "category": "形容詞"
+  },
+  {
+    "id": 173,
+    "word_kh": "ចង្អៀត",
+    "pronunciation": "チョンギエット",
+    "meaning_ja": "狭い",
+    "category": "形容詞"
+  },
+  {
+    "id": 174,
+    "word_kh": "ធ្ងន់",
+    "pronunciation": "トゥン",
+    "meaning_ja": "重い",
+    "category": "形容詞"
+  },
+  {
+    "id": 175,
+    "word_kh": "ស្រាល",
+    "pronunciation": "スラール",
+    "meaning_ja": "軽い",
+    "category": "形容詞"
+  },
+  {
+    "id": 176,
+    "word_kh": "ខ្ពស់",
+    "pronunciation": "クポアッ",
+    "meaning_ja": "高い",
+    "category": "形容詞"
+  },
+  {
+    "id": 177,
+    "word_kh": "ទាប",
+    "pronunciation": "ティアップ",
+    "meaning_ja": "低い",
+    "category": "形容詞"
+  },
+  {
+    "id": 178,
+    "word_kh": "ថោក",
+    "pronunciation": "トーク",
+    "meaning_ja": "安い",
+    "category": "形容詞"
+  },
+  {
+    "id": 179,
+    "word_kh": "ថ្លៃ",
+    "pronunciation": "トライ",
+    "meaning_ja": "高価な",
+    "category": "形容詞"
+  },
+  {
+    "id": 180,
+    "word_kh": "ថ្មី",
+    "pronunciation": "トマイ",
+    "meaning_ja": "新しい",
+    "category": "形容詞"
+  },
+  {
+    "id": 181,
+    "word_kh": "ចាស់",
+    "pronunciation": "チャーッ",
+    "meaning_ja": "古い",
+    "category": "形容詞"
+  },
+  {
+    "id": 182,
+    "word_kh": "ល្អ",
+    "pronunciation": "ロー",
+    "meaning_ja": "良い",
+    "category": "形容詞"
+  },
+  {
+    "id": 183,
+    "word_kh": "អាក្រក់",
+    "pronunciation": "アークロッ",
+    "meaning_ja": "悪い",
+    "category": "形容詞"
+  },
+  {
+    "id": 184,
+    "word_kh": "ស្អាត",
+    "pronunciation": "サアット",
+    "meaning_ja": "美しい",
+    "category": "形容詞"
+  },
+  {
+    "id": 185,
+    "word_kh": "ស្អាត",
+    "pronunciation": "サアット",
+    "meaning_ja": "きれいな",
+    "category": "形容詞"
+  },
+  {
+    "id": 186,
+    "word_kh": "កខ្វក់",
+    "pronunciation": "コクヴォック",
+    "meaning_ja": "汚い",
+    "category": "形容詞"
+  },
+  {
+    "id": 187,
+    "word_kh": "អុំអៅ",
+    "pronunciation": "オムアオ",
+    "meaning_ja": "うるさい",
+    "category": "形容詞"
+  },
+  {
+    "id": 188,
+    "word_kh": "ស្ងៀមស្ងាត់",
+    "pronunciation": "スンギアム スンガット",
+    "meaning_ja": "静かな",
+    "category": "形容詞"
+  },
+  {
+    "id": 189,
+    "word_kh": "លឿន",
+    "pronunciation": "ルアン",
+    "meaning_ja": "速い",
+    "category": "形容詞"
+  },
+  {
+    "id": 190,
+    "word_kh": "យឺត",
+    "pronunciation": "ユット",
+    "meaning_ja": "遅い",
+    "category": "形容詞"
+  },
+  {
+    "id": 191,
+    "word_kh": "ក្តៅ",
+    "pronunciation": "クダウ",
+    "meaning_ja": "暑い",
+    "category": "形容詞"
+  },
+  {
+    "id": 192,
+    "word_kh": "ត្រជាក់",
+    "pronunciation": "トロチェアッ",
+    "meaning_ja": "寒い",
+    "category": "形容詞"
+  },
+  {
+    "id": 193,
+    "word_kh": "ក្តៅស្រាល",
+    "pronunciation": "クダウスラール",
+    "meaning_ja": "温かい",
+    "category": "形容詞"
+  },
+  {
+    "id": 194,
+    "word_kh": "ត្រជាក់",
+    "pronunciation": "トロチェアッ",
+    "meaning_ja": "冷たい",
+    "category": "形容詞"
+  },
+  {
+    "id": 195,
+    "word_kh": "រីករាយ",
+    "pronunciation": "リークルアイ",
+    "meaning_ja": "楽しい",
+    "category": "形容詞"
+  },
+  {
+    "id": 196,
+    "word_kh": "សោកស្តាយ",
+    "pronunciation": "ソークスタイ",
+    "meaning_ja": "悲しい",
+    "category": "形容詞"
+  },
+  {
+    "id": 197,
+    "word_kh": "ភ័យខ្លាច",
+    "pronunciation": "ペイ クラッチ",
+    "meaning_ja": "怖い",
+    "category": "形容詞"
+  },
+    {
+    "id": 198,
+    "word_kh": "ផ្ទះ",
+    "pronunciation": "プテア",
+    "meaning_ja": "家",
+    "category": "場所"
+  },
+  {
+    "id": 199,
+    "word_kh": "បន្ទប់",
+    "pronunciation": "ボントップ",
+    "meaning_ja": "部屋",
+    "category": "場所"
+  },
+  {
+    "id": 200,
+    "word_kh": "បន្ទប់ទទួលភ្ញៀវ",
+    "pronunciation": "ボントップ トトゥアル プニャウ",
+    "meaning_ja": "リビング",
+    "category": "場所"
+  },
+  {
+    "id": 201,
+    "word_kh": "ផ្ទះបាយ",
+    "pronunciation": "プテアバーイ",
+    "meaning_ja": "キッチン",
+    "category": "場所"
+  },
+  {
+    "id": 202,
+    "word_kh": "បង្គន់",
+    "pronunciation": "ボンコン",
+    "meaning_ja": "トイレ",
+    "category": "場所"
+  },
+  {
+    "id": 203,
+    "word_kh": "បង្គន់ទឹកក្តៅ",
+    "pronunciation": "ボンコン トゥック クダウ",
+    "meaning_ja": "お風呂",
+    "category": "場所"
+  },
+  {
+    "id": 204,
+    "word_kh": "សាលា",
+    "pronunciation": "サラー",
+    "meaning_ja": "学校",
+    "category": "場所"
+  },
+  {
+    "id": 205,
+    "word_kh": "បន្ទប់សិក្សា",
+    "pronunciation": "ボントップ セクサー",
+    "meaning_ja": "教室",
+    "category": "場所"
+  },
+  {
+    "id": 206,
+    "word_kh": "បណ្ណាល័យ",
+    "pronunciation": "ボンナライ",
+    "meaning_ja": "図書館",
+    "category": "場所"
+  },
+  {
+    "id": 207,
+    "word_kh": "ក្រុមហ៊ុន",
+    "pronunciation": "クロムフン",
+    "meaning_ja": "会社",
+    "category": "場所"
+  },
+  {
+    "id": 208,
+    "word_kh": "ការិយាល័យ",
+    "pronunciation": "カリアライ",
+    "meaning_ja": "オフィス",
+    "category": "場所"
+  },
+  {
+    "id": 209,
+    "word_kh": "បន្ទប់ប្រជុំ",
+    "pronunciation": "ボントップ プロチュム",
+    "meaning_ja": "会議室",
+    "category": "場所"
+  },
+  {
+    "id": 210,
+    "word_kh": "មន្ទីរពេទ្យ",
+    "pronunciation": "モンティーペート",
+    "meaning_ja": "病院",
+    "category": "場所"
+  },
+  {
+    "id": 211,
+    "word_kh": "ហាងឱសថ",
+    "pronunciation": "ハーン オーサット",
+    "meaning_ja": "薬局",
+    "category": "場所"
+  },
+  {
+    "id": 212,
+    "word_kh": "ហាងលក់ដុំ",
+    "pronunciation": "ハーンルオクドム",
+    "meaning_ja": "スーパー",
+    "category": "場所"
+  },
+  {
+    "id": 213,
+    "word_kh": "ហាងสะดวกទិញ",
+    "pronunciation": "ハーン サドゥオック ティン",
+    "meaning_ja": "コンビニ",
+    "category": "場所"
+  },
+  {
+    "id": 214,
+    "word_kh": "ភោជនីយដ្ឋាន",
+    "pronunciation": "ポーチニヨタハン",
+    "meaning_ja": "レストラン",
+    "category": "場所"
+  },
+  {
+    "id": 215,
+    "word_kh": "ហាងកាហ្វេ",
+    "pronunciation": "ハーン カーフェー",
+    "meaning_ja": "カフェ",
+    "category": "場所"
+  },
+  {
+    "id": 216,
+    "word_kh": "សណ្ឋាគារ",
+    "pronunciation": "サンタキア",
+    "meaning_ja": "ホテル",
+    "category": "場所"
+  },
+  {
+    "id": 217,
+    "word_kh": "ស្ថានីយ៍រថភ្លើង",
+    "pronunciation": "スターニー ロッピルーン",
+    "meaning_ja": "駅",
+    "category": "場所"
+  },
+  {
+    "id": 218,
+    "word_kh": "ព្រលានយន្តហោះ",
+    "pronunciation": "プロラン ヨントホッ",
+    "meaning_ja": "空港",
+    "category": "場所"
+  },
+  {
+    "id": 219,
+    "word_kh": "ស្ថានីយ៍រថយន្ត",
+    "pronunciation": "スターニー ロトヨント",
+    "meaning_ja": "バス停",
+    "category": "場所"
+  },
+  {
+    "id": 220,
+    "word_kh": "សួនច្បារ",
+    "pronunciation": "スオン チュバ",
+    "meaning_ja": "公園",
+    "category": "場所"
+  },
+  {
+    "id": 221,
+    "word_kh": "សួនសត្វ",
+    "pronunciation": "スオン サット",
+    "meaning_ja": "動物園",
+    "category": "場所"
+  },
+  {
+    "id": 222,
+    "word_kh": "សារមន្ទីរគំនូរ",
+    "pronunciation": "サーモンティー コムヌー",
+    "meaning_ja": "美術館",
+    "category": "場所"
+  },
+  {
+    "id": 223,
+    "word_kh": "រង្វង់ភាពយន្ត",
+    "pronunciation": "ロンヴォン ピアップヨン",
+    "meaning_ja": "映画館",
+    "category": "場所"
+  },
+  {
+    "id": 224,
+    "word_kh": "ព្រះវិហារ",
+    "pronunciation": "プレア ヴィハー",
+    "meaning_ja": "神社",
+    "category": "場所"
+  },
+  {
+    "id": 225,
+    "word_kh": "វត្ត",
+    "pronunciation": "ヴォット",
+    "meaning_ja": "お寺",
+    "category": "場所"
+  },
+  {
+    "id": 226,
+    "word_kh": "ផ្លូវ",
+    "pronunciation": "プロウ",
+    "meaning_ja": "道",
+    "category": "場所"
+  },
+  {
+    "id": 227,
+    "word_kh": "ផ្សារ",
+    "pronunciation": "プサー",
+    "meaning_ja": "市場",
+    "category": "場所"
+  }
+]
