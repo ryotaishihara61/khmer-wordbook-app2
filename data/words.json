@@ -3,154 +3,154 @@
     "id": 1,
     "word_kh": "សូន្យ",
     "pronunciation": "ソン",
-    "meaning_ja": 0,
+    "meaning_ja": "0",
     "category": "数字"
   },
   {
     "id": 2,
     "word_kh": "មួយ",
     "pronunciation": "ムオイ",
-    "meaning_ja": 1,
+    "meaning_ja": "1",
     "category": "数字"
   },
   {
     "id": 3,
     "word_kh": "ពីរ",
     "pronunciation": "ピー",
-    "meaning_ja": 2,
+    "meaning_ja": "2",
     "category": "数字"
   },
   {
     "id": 4,
     "word_kh": "បី",
     "pronunciation": "バイ",
-    "meaning_ja": 3,
+    "meaning_ja": "3",
     "category": "数字"
   },
   {
     "id": 5,
     "word_kh": "បួន",
     "pronunciation": "ボーン",
-    "meaning_ja": 4,
+    "meaning_ja": "4",
     "category": "数字"
   },
   {
     "id": 6,
     "word_kh": "ប្រាំ",
     "pronunciation": "プラム",
-    "meaning_ja": 5,
+    "meaning_ja": "5",
     "category": "数字"
   },
   {
     "id": 7,
     "word_kh": "ប្រាំមួយ",
     "pronunciation": "プラムムオイ",
-    "meaning_ja": 6,
+    "meaning_ja": "6",
     "category": "数字"
   },
   {
     "id": 8,
     "word_kh": "ប្រាំពីរ",
     "pronunciation": "プラムピー",
-    "meaning_ja": 7,
+    "meaning_ja": "7",
     "category": "数字"
   },
   {
     "id": 9,
     "word_kh": "ប្រាំបី",
     "pronunciation": "プラムバイ",
-    "meaning_ja": 8,
+    "meaning_ja": "8",
     "category": "数字"
   },
   {
     "id": 10,
     "word_kh": "ប្រាំបួន",
     "pronunciation": "プラムボーン",
-    "meaning_ja": 9,
+    "meaning_ja": "9",
     "category": "数字"
   },
   {
     "id": 11,
     "word_kh": "ដប់",
     "pronunciation": "ドップ",
-    "meaning_ja": 10,
+    "meaning_ja": "10",
     "category": "数字"
   },
   {
     "id": 12,
     "word_kh": "ម្ភៃ",
     "pronunciation": "ムパイ",
-    "meaning_ja": 20,
+    "meaning_ja": "20",
     "category": "数字"
   },
   {
     "id": 13,
     "word_kh": "សាមសិប",
     "pronunciation": "サームサップ",
-    "meaning_ja": 30,
+    "meaning_ja": "30",
     "category": "数字"
   },
   {
     "id": 14,
     "word_kh": "សែសិប",
     "pronunciation": "セーサップ",
-    "meaning_ja": 40,
+    "meaning_ja": "40",
     "category": "数字"
   },
   {
     "id": 15,
     "word_kh": "ហាសិប",
     "pronunciation": "ハーサップ",
-    "meaning_ja": 50,
+    "meaning_ja": "50",
     "category": "数字"
   },
   {
     "id": 16,
     "word_kh": "ហុកសិប",
     "pronunciation": "ホックサップ",
-    "meaning_ja": 60,
+    "meaning_ja": "60",
     "category": "数字"
   },
   {
     "id": 17,
     "word_kh": "ចិតសិប",
     "pronunciation": "チェットサップ",
-    "meaning_ja": 70,
+    "meaning_ja": "70",
     "category": "数字"
   },
   {
     "id": 18,
     "word_kh": "ប៉ែតសិប",
     "pronunciation": "ペットサップ",
-    "meaning_ja": 80,
+    "meaning_ja": "80",
     "category": "数字"
   },
   {
     "id": 19,
     "word_kh": "កៅសិប",
     "pronunciation": "カオサップ",
-    "meaning_ja": 90,
+    "meaning_ja": "90",
     "category": "数字"
   },
   {
     "id": 20,
     "word_kh": "មួយរយ",
     "pronunciation": "ムオイロイ",
-    "meaning_ja": 100,
+    "meaning_ja": "100",
     "category": "数字"
   },
   {
     "id": 21,
     "word_kh": "មួយពាន់",
     "pronunciation": "ムオイポアン",
-    "meaning_ja": 1000,
+    "meaning_ja": "1000",
     "category": "数字"
   },
   {
     "id": 22,
     "word_kh": "មួយម៉ឺន",
     "pronunciation": "ムオイムーン",
-    "meaning_ja": 10000,
+    "meaning_ja": "10000",
     "category": "数字"
   },
   {
