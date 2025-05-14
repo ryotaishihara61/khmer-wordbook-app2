@@ -36,7 +36,21 @@ export default function Home() {
       <h1 style={{ fontSize: '1.5rem', marginTop: '1rem' }}>
         くめたん - クメール語単語帳
       </h1>
-
+      <div style={{ margin: '1rem' }}>
+        <a
+          href="/test"
+          style={{
+            display: 'inline-block',
+            padding: '0.5rem 1rem',
+            backgroundColor: '#ffd700',
+            color: '#fff',
+            borderRadius: '6px',
+            textDecoration: 'none'
+          }}
+        >
+          テストモードへ
+        </a>
+      </div>
       {/* カテゴリフィルター */}
       <div style={{ margin: '2rem 0' }}>
         <button
