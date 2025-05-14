@@ -33,7 +33,7 @@ export default function Home() {
         width={200}
         height={200}
       />
-      <h1 style={{ fontSize: '2rem', marginTop: '1rem' }}>
+      <h1 style={{ fontSize: '1.5rem', marginTop: '1rem' }}>
         くめたん - クメール語単語帳
       </h1>
 
