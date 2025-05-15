@@ -34,7 +34,7 @@ export default function Home() {
         height={200}
       />
       <h1 style={{ fontSize: '1.5rem', marginTop: '1rem' }}>
-        くめたん - クメール語単語帳
+       クメール語勉強アプリ
       </h1>
       <div style={{ margin: '1rem' }}>
         <a

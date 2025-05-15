@@ -1,5 +1,6 @@
 // pages/test.tsx
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 import words from '@/data/words.json';
 import TestQuestion from '@/components/TestQuestion';
 
@@ -27,7 +28,6 @@ export default function TestPage() {
   const categories = Array.from(new Set(words.map((w) => w.category)));
 
   useEffect(() => {
-    // 出題リストをカテゴリごとに再生成
     const pool = selectedCategory === 'すべて'
       ? words
       : words.filter(w => w.category === selectedCategory);
@@ -55,8 +55,18 @@ export default function TestPage() {
   };
 
   return (
-    <div style={{ padding: '2rem' }}>
-      <div style={{ marginBottom: '1rem' }}>
+    <div style={{ textAlign: 'center', padding: '2rem' }}>
+      <Image
+        src="/khmetanlogo.png"
+        alt="くめたんロゴ"
+        width={200}
+        height={200}
+      />
+      <h1 style={{ fontSize: '1.5rem', marginTop: '1rem' }}>
+       テストモード 20問ランダム
+      </h1>
+
+      <div style={{ margin: '1rem' }}>
         <a
           href="/"
           style={{
@@ -68,13 +78,11 @@ export default function TestPage() {
             color: '#000'
           }}
         >
-          ← トップに戻る
+         トップへ
         </a>
       </div>
 
-      <h1>20問チャレンジ！</h1>
-
-      <div style={{ marginBottom: '1rem' }}>
+      <div style={{ marginBottom: '1.5rem' }}>
         <label>
           出題カテゴリ:{' '}
           <select
